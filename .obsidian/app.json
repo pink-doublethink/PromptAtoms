@@ -3,5 +3,6 @@
   "trashOption": "none",
   "newFileLocation": "root",
   "attachmentFolderPath": "Files",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "alwaysUpdateLinks": true
 }
