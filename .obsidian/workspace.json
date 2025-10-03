@@ -8,258 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09c869bf5cb7b731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как измерять реальную эффективность промптов.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Как измерять реальную эффективность промптов"
-            }
-          },
-          {
-            "id": "85319f068c94cbf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Почему ИИ путается в ваших правилах.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Почему ИИ путается в ваших правилах"
-            }
-          },
-          {
-            "id": "a66820a20afddbf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Графовая гонка.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Графовая гонка"
-            }
-          },
-          {
-            "id": "f25e58936d0763e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Между «потоком» и «семантическим казино».md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Между «потоком» и «семантическим казино»"
-            }
-          },
-          {
-            "id": "ee98ec434e0741bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Промптинг решает все.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Промптинг решает все"
-            }
-          },
-          {
-            "id": "33100aaf597820a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как перестать играть с GPT в рулетку и начать им управлять.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Как перестать играть с GPT в рулетку и начать им управлять"
-            }
-          },
-          {
-            "id": "aa3f9aee614164b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Почему громким исследованиям LLM нельзя верить на слово.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Почему громким исследованиям LLM нельзя верить на слово"
-            }
-          },
-          {
-            "id": "d7d4419efcd8c9a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Российский ИИ-дрон с американским сердцем.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Российский ИИ-дрон с американским сердцем"
-            }
-          },
-          {
-            "id": "2cb45d3552e0c12e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Истинный смысл нормализации в GPT.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Истинный смысл нормализации в GPT"
-            }
-          },
-          {
-            "id": "7d11919139044ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Параллельный разум.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Параллельный разум"
-            }
-          },
-          {
-            "id": "773a38863c93679e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Встроенный стандарт качества фрактального промптинга.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Встроенный стандарт качества фрактального промптинга"
-            }
-          },
-          {
-            "id": "1dca72b63fe5e09d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Фрактальная природа мышления ИИ.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Фрактальная природа мышления ИИ"
-            }
-          },
-          {
-            "id": "4667e32d5784466f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Возможности и ограничения анализа для промпт-инжиниринга.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Возможности и ограничения анализа для промпт-инжиниринга"
-            }
-          },
-          {
-            "id": "cad603691b558dfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Фундаментальное правило эффективного промпта.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Фундаментальное правило эффективного промпта"
-            }
-          },
-          {
-            "id": "98c42719ed6066ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Эффективность промпта в цифрах.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Эффективность промпта в цифрах"
-            }
-          },
-          {
             "id": "86cffe83a4a77434",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ],
-        "currentTab": 15
-      },
-      {
-        "id": "9e759235221f589b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c01c67f5b3ebf2ea",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Компании и организации.md",
+                "file": "Прогноз с точностью до 0,1%.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "0 Компании и организации"
-            }
-          },
-          {
-            "id": "c0dfe1a28ad91a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Ключевые фигуры.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "0 Ключевые фигуры"
+              "title": "Прогноз с точностью до 0,1%"
             }
           }
         ]
@@ -319,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 342.5
   },
   "right": {
     "id": "84e46f8335182b14",
@@ -328,6 +87,7 @@
       {
         "id": "a481b8550c47ef94",
         "type": "tabs",
+        "dimension": 75,
         "children": [
           {
             "id": "545842a2676c9712",
@@ -350,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "курс по ИИ.md",
+                "file": "Как ИИ учится проигрывать код в уме.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from курс по ИИ"
+              "title": "Outgoing links from Как ИИ учится проигрывать код в уме"
             }
           },
           {
@@ -378,6 +138,7 @@
       {
         "id": "d69543ad850e14e5",
         "type": "tabs",
+        "dimension": 25,
         "children": [
           {
             "id": "d8cb2a8b2a7beec6",
@@ -385,9 +146,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "курс по ИИ.md",
+                "file": "Как ИИ учится проигрывать код в уме.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -395,18 +156,19 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for курс по ИИ"
+              "title": "Backlinks for Как ИИ учится проигрывать код в уме"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -417,32 +179,32 @@
   },
   "active": "86cffe83a4a77434",
   "lastOpenFiles": [
-    "Эффективность промпта в цифрах.md",
-    "Фундаментальное правило эффективного промпта.md",
-    "Возможности и ограничения анализа для промпт-инжиниринга.md",
-    "Фрактальная природа мышления ИИ.md",
-    "Встроенный стандарт качества фрактального промптинга.md",
-    "Параллельный разум.md",
-    "Истинный смысл нормализации в GPT.md",
-    "Российский ИИ-дрон с американским сердцем.md",
-    "Почему громким исследованиям LLM нельзя верить на слово.md",
-    "Как перестать играть с GPT в рулетку и начать им управлять.md",
-    "Промптинг решает все.md",
-    "Между «потоком» и «семантическим казино».md",
-    "Графовая гонка.md",
-    "Почему ИИ путается в ваших правилах.md",
-    "Как измерять реальную эффективность промптов.md",
-    "0 Компании и организации.md",
-    "0 Ключевые фигуры.md",
-    "Как работает «секретная практика» промпт-инженеров.md",
     "Проблема неявного end.md",
-    "ИИ-планировщик превосходит человека.md",
-    "Программирование — это аналитика, а не код.md",
-    "Семантическая матрешка.md",
-    "0 Образовательные подходы.md",
-    "0 Инструменты для разработки.md",
-    "0 Исследователи и идеологи.md",
-    "0 Инструменты управления проектами.md",
+    "Практический выбор нейросети для творчества.md",
+    "Практика дообучения Gemini для реальных задач.md",
+    "Почему PR Anthropic громче их открытий.md",
+    "Почему IT-проекты на самом деле предсказуемы.md",
+    "Почему CO-STAR и TIDD-EC на самом деле вредны.md",
+    "Почему Claude рискует повторить судьбу павшего гиганта.md",
+    "Почему учёные выбирают ИИ вместо коллег.md",
+    "Почему семантическая разметка это секретное оружие в гонке ИИ.md",
+    "Почему Роботы-гуманоиды похожи на нас и при чем тут деньги.md",
+    "Почему размер вектора имеет значение.md",
+    "Почему образование нужно менять уже вчера.md",
+    "Почему лучшие AI-практики остались в тени после 2023 года.md",
+    "Почему логика ИИ эффективнее человеческой.md",
+    "Почему код от ИИ придётся выбросить, если не заложить фундамент сразу.md",
+    "Почему ИИ путается в ваших правилах.md",
+    "Почему ИИ обесценивает классическое IT-образование.md",
+    "Почему для ИИ отдельные слова ничего не значат.md",
+    "Почему громким исследованиям LLM нельзя верить на слово.md",
+    "Почему гениальное открытие в ИИ осталось незамеченным.md",
+    "Почему ВСЕМ важно понимать ИИ Изнутри.md",
+    "Почему без семантического графа GPT слепнет в больших текстах.md",
+    "Пиар на грани скандала.md",
+    "Перцептрон - не слепой датчик, а управляемый из промпта механизм.md",
+    "Параллельный разум.md",
+    "Парадокс чистого кода.md",
     "Files/имеется.jpg",
     "Files/который.jpg",
     "Files/результаты.jpg",

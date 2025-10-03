@@ -8,8 +8,8 @@ tags:
 - llm/оценка/понимание_концепций
 - кейсы/llama/maverick/применение_наука
 - llm/модели/llama/maverick
-topics:
-- .
+author:
+- Vladimir Ivanov
 ---
 -----
 ##  AI llama-4-maverick 

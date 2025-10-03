@@ -9,8 +9,8 @@ tags:
 - оценка/maverick/оценка
 - llm/модели/llama/maverick/скандал
 - ИИ/модели/llama/maverick/происхождение
-topics:
-- .
+author:
+- Vladimir Ivanov
 ---
 ![[Скандал, Учитель и Неожиданные Таланты.jpg]]
 

@@ -9,8 +9,8 @@ tags:
 - llm/архитектура/attention/миф_v
 - ИИ/архитектура/attention/маркировка_выходов
 - llm/архитектура/attention/матрица_v
-topics:
-- .
+author:
+- Vladimir Ivanov
 ---
 ![[Не склад ответов, а дирижёр внимания.jpg]]
 

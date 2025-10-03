@@ -9,8 +9,8 @@ tags:
 - ИИ/модели/OpenAI/критика
 - ИИ/модели/Gemini
 - ИИ/оценка/производительность
-topics:
-- .
+author:
+- Vladimir Ivanov
 ---
 ![[проценты.jpg]]
 

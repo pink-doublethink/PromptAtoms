@@ -9,8 +9,8 @@ tags:
 - llm/модели/claude/оценка_субъективная
 - llm/модели/claude/преимущества
 - llm/модели/claude/критика
-topics:
-- .
+author:
+- Vladimir Ivanov
 ---
 -----
 ##  Claude - провал в бизнесе, триумф во фронтенде 

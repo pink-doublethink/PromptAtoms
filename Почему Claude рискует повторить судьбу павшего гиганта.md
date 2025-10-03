@@ -10,8 +10,8 @@ tags:
 - ИИ/Индустрия/Anthropic/Проблемы_Claude
 - ИИ/Индустрия/Конкуренция
 - ИИ/Индустрия/Anthropic/Кризис_Claude
-topics:
-- .
+author:
+- Vladimir Ivanov
 ---
 -----
 ##  Почему Claude рискует повторить судьбу павшего гиганта 

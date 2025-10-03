@@ -9,8 +9,8 @@ tags:
 - llm/модели/yandex_gpt/применимость
 - llm/модели/yandex_gpt/метод_улучшения
 - llm/модели/yandex_gpt/развитие
-topics:
-- .
+author:
+- Vladimir Ivanov
 ---
 ![[photo_2025-06-27_00-49-52.jpg]]
 

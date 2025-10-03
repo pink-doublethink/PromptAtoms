@@ -9,8 +9,8 @@ tags:
 - Семантика/attention/матрицы_qk
 - llm/архитектура/мифы/упрощения
 - ИИ/архитектура/attention/миф_q_k
-topics:
-- .
+author:
+- Vladimir Ivanov
 ---
 ![[Q — не вопрос, K — не ответ.jpg]]
 

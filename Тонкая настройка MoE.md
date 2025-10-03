@@ -12,8 +12,8 @@ tags:
 - llm/fine-tuning/lora/сравнение_эффективности
 - llm/fine-tuning/moe/проблемы
 - llm/fine-tuning/moe/lora
-topics:
-- .
+author:
+- Vladimir Ivanov
 ---
 -----
 ##  Тонкая настройка MoE 
