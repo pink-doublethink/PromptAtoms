@@ -4,11 +4,11 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- методология/бенчмарки/arena
-- llm/модели/llama/maverick/прогноз
-- оценка/maverick/оценка
-- llm/модели/llama/maverick/скандал
-- ИИ/модели/llama/maverick/происхождение
+- ai/technical_capabilities
+- ai/background_and_risks
+- ai/competitive_analysis
+- business/use_cases
+- product/ai_model/future_outlook
 author:
 - Vladimir Ivanov
 ---

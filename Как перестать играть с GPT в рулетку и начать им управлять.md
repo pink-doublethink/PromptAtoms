@@ -4,10 +4,11 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- Промптинг/Стратегии
-- ИИ/Теория/Критика
-- Промптинг/Управление
-- ИИ/Теория/GPT
+- ai/text-generation/model-theory
+- ai/text-generation/prompting-technique
+- ai/text-generation/model-critique
+- ai/text-generation/consequences
+- ai/text-generation/prompting-strategy
 author:
 - Vladimir Ivanov
 ---

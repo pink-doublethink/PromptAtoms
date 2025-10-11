@@ -4,13 +4,12 @@ aliases:
 date: 27-Jun-2025
 tags:
 - 2025/Apr
-- Критика-ИИ/Эксперты
-- LLM/Практика/Рекомендации
-- Бизнес/Коммерческая-тайна
-- LLM/Внутренняя-работа/Выделение-сущностей
-- LLM/Внутренняя-работа
-- LLM/Работа-с-данными
-- LLM/Возможности/Эмерджентные
+- research/capabilities/data-and-code
+- ai/architecture/internal-mechanisms
+- research/evaluation/data-format-performance
+- research/industry/competitive-landscape
+- ai/llm/best-practices/data-preparation
+- research/critique/expert-opinion
 author:
 - Vladimir Ivanov
 ---

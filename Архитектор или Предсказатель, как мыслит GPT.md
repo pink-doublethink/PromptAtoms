@@ -4,14 +4,12 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- ИИ/технологии/GPT/генерация_ответа
-- ИИ/технологии/GPT/планирование_ответа
-- ИИ/технологии/GPT/авторегрессия
-- ИИ/технологии/трансформеры/attention
-- ИИ/технологии/GPT/ограничения/маскирование
-- Наука/дискуссии
-- ИИ/ограничения/семантическая_целостность
-- ИИ/технологии/GPT/скрытые_состояния
+- ai/llm/text-generation
+- ai/llm/behavior/planning
+- ai/llm/architecture/transformers-attention
+- ai/meta/scientific-discourse
+- ai/llm/mechanisms/autoregression
+- ai/llm/behavior/coherence
 author:
 - Vladimir Ivanov
 ---

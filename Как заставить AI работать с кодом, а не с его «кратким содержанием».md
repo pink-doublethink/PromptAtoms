@@ -4,12 +4,11 @@ aliases:
 date: 29-Jun-2025
 tags:
 - 2025/May
-- ИИ/разработка/векторные_базы
-- ИИ/влияние/индустрии/разработка_ПО/интеграция
-- ИИ/разработка/оптимизация_контекста
-- ИИ/разработка/архитектура_систем
-- ИИ/применение/программирование/работа_с_кодом
-- ИИ/применение/программирование/семантическая_разметка
+- ai/code-analysis
+- ai/optimization
+- ai/architecture
+- research/ai_limitations
+- ai/features/automated-refactoring
 author:
 - Vladimir Ivanov
 ---

@@ -4,10 +4,11 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- ИИ/технологии/нейросети/адаптивность
-- ИИ/технологии/трансформеры/attention/цель
-- ИИ/технологии/трансформеры/attention/нормализация_весов
-- ИИ/технологии/трансформеры/attention/принцип_работы
+- deep_learning/architecture/attention
+- deep_learning/nlp/word_embeddings
+- deep_learning/components/activation_functions
+- deep_learning/training/robustness
+- deep_learning/theory/interpretability
 author:
 - Vladimir Ivanov
 ---

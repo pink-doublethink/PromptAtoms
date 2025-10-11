@@ -4,12 +4,12 @@ aliases:
 date: 29-Jun-2025
 tags:
 - 2025/May
-- образование/навыки/будущее
-- карьера/менеджмент/критика/устаревшие_навыки
-- карьера/менеджмент/трансформация/автоматизация
-- карьера/менеджмент/инструменты/ии-команды
-- менеджмент/новые_роли/гик-менеджер
-- карьера/менеджмент/трансформация/it
+- it/management/ai-impact
+- management/team-dynamics/ai-vs-human
+- education/skills/adaptation
+- management/roles/geek-manager
+- management/methodologies/scrum-obsolescence
+
 author:
 - Vladimir Ivanov
 ---

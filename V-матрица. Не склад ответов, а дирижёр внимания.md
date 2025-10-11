@@ -4,11 +4,11 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- технология/оптимизация
-- ИИ/архитектура/attention/обобщение_сигналов
-- llm/архитектура/attention/миф_v
-- ИИ/архитектура/attention/маркировка_выходов
-- llm/архитектура/attention/матрица_v
+- ai/transformers/architecture
+- ai/transformers/attention_mechanism
+- ai/transformers/attention_mechanism
+- ai/transformers/component_interaction
+- ai/transformers/optimization
 author:
 - Vladimir Ivanov
 ---

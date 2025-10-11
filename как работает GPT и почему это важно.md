@@ -4,12 +4,12 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- Промпт-инжиниринг/Структура/Хронология
-- LLM/Ограничения/Пересмотр
-- LLM/Ограничения/Нелинейность
-- LLM/Ограничения/Семантическая-катастрофа
-- LLM/Ограничения/Неизменность-понимания
-- LLM/Архитектура/GPT
+- ai/llm/architecture
+- ai/llm/limitations
+- ai/llm/data-processing/semantics
+- data/semantics
+- ai/llm/data-processing/non-linear-text
+- ai/llm/data-processing/chronology
 author:
 - Vladimir Ivanov
 ---

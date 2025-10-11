@@ -4,10 +4,12 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/May
-- ИИ/история/личности
-- ИИ/история/архитектура
-- ИИ/история/обучение
-- ИИ/история/технологии
+- ai/neural-networks/architecture
+- ai/history/researchers
+- ai/narrative/main-thesis/gpt-origin
+- it/technical-context/limitations
+- concepts/paradigm/shift
+- concepts/influence/hidden-figures
 author:
 - Vladimir Ivanov
 ---

@@ -4,11 +4,10 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- llm/оценка/сравнение_моделей
-- разработка/предложение_решения
-- llm/модели/claude/оценка_субъективная
-- llm/модели/claude/преимущества
-- llm/модели/claude/критика
+- ai/business-analysis/claude
+- ai/models/comparative-analysis
+- ai/software-development/claude
+- software/requirements/graphs
 author:
 - Vladimir Ivanov
 ---

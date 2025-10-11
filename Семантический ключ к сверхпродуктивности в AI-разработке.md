@@ -4,12 +4,10 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- ИИ/Развитие/Распространение
-- Разработка/Кодинг_с_ИИ/Управление_сложностью
-- Семантика/Управление_ИИ
-- Разработка/Роль_ИИ
-- Разработка/Кодинг_с_ИИ/Производительность
-- Разработка/Методология/Инновации
+- software/methodology
+- software/productivity/automation
+- software/code_quality/semantics
+- software/education
 author:
 - Vladimir Ivanov
 ---

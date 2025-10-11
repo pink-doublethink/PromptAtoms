@@ -4,5 +4,6 @@
   "newFileLocation": "root",
   "attachmentFolderPath": "Files",
   "propertiesInDocument": "hidden",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source"
 }

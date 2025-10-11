@@ -5,13 +5,11 @@ aliases:
 date: 27-Jun-2025
 tags:
 - 2025/Apr
-- коммуникация/адаптация/бизнес-аудитория
-- llm/fine-tuning/сравнение_подходов
-- ИИ/связь/академия_и_бизнес
-- llm/fine-tuning/бизнес-требования
-- llm/fine-tuning/lora/сравнение_эффективности
-- llm/fine-tuning/moe/проблемы
-- llm/fine-tuning/moe/lora
+- ai/moe-finetuning/technical-analysis
+- ai/moe-finetuning/business-value
+- ai/moe-finetuning/technical-analysis/method-comparison
+- ai/moe-finetuning/technical-analysis/scientific-basis
+- concepts/stakeholder-communication
 author:
 - Vladimir Ivanov
 ---

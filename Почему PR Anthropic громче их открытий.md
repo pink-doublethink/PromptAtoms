@@ -4,11 +4,12 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- ИИ/Индустрия/PR_vs_Наука
-- ИИ/Индустрия/Anthropic/Кейсы
-- ИИ/Индустрия/Сравнение_компаний
-- ИИ/Индустрия/Anthropic/Критика_методологии
-- ИИ/Индустрия/Anthropic/Критика_науки
+- ai/interpretability/anthropic
+- research/comparative-analysis
+- research/methodology
+- ai/industry/pr-vs-science
+- ai/interpretability/limitations
+- ai/critique/core-arguments/methodology
 author:
 - Vladimir Ivanov
 ---

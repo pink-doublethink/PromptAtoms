@@ -4,15 +4,11 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- ИИ/Демократизация
-- ИИ-в-разработке/Отладка/Диагностика
-- ИИ-в-разработке/Безопасность
-- ИИ-в-разработке/Безопасность/AI-Guard
-- Программирование/Стандарты/XML-vs-JSON
-- ИИ-в-разработке/Лучшие-практики/Wrappers
-- ИИ-в-разработке/Лучшие-практики/Стандартные-библиотеки
-- ИИ-в-разработке/Ассистенты/Решения
-- ИИ-в-разработке/Ассистенты/Проблемы
+- software/code-generation/challenges
+- engineering/code-generation/standardization
+- software/data-interchange/comparison
+- ai/security/guardian-concept
+- ai/impact/democratization
 author:
 - Vladimir Ivanov
 ---

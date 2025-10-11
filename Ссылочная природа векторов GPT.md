@@ -4,13 +4,11 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- llm/технология/векторы/природа
-- данные/граф_знаний/интеграция
-- llm/технология/векторы/улучшение
-- llm/технология/векторы/ограничения
-- llm/применение/rag/векторы
-- llm/технология/векторы/принцип_работы
-- llm/технология/векторы/назначение
+- ai/vector-embeddings/principles
+- ai/vector-embeddings/properties
+- ai/vector-embeddings/limitations
+- data/knowledge-graphs
+- ai/vector-embeddings/rag
 author:
 - Vladimir Ivanov
 ---

@@ -4,10 +4,11 @@ aliases:
 date: 27-Jun-2025
 tags:
 - 2025/Apr
-- безопасность/риски/неотличимость_ии
-- llm/оценка/тест_тьюринга/неотличимость
-- промптинг/ролевые_модели
-- llm/оценка/тест_тьюринга
+- ai/llm/evaluation
+- ai/development/trends
+- ai/impact/perception
+- ai/llm/testing
+- ai/human-computer-interaction/collaboration
 author:
 - Vladimir Ivanov
 ---

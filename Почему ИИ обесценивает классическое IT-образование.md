@@ -4,10 +4,12 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/May
-- ИИ/Влияние/Образование/Советы
-- ИИ/Влияние/Образование
-- образование/критика/STEM
-- карьера/будущее/риски/STEM
+- it/stem/risks
+- ai/human-competition
+- education/curriculum/obsolescence
+- ai/disciplinary-transformation
+- education/adaptation/technological-change
+
 author:
 - Vladimir Ivanov
 ---

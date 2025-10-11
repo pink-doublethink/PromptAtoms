@@ -4,10 +4,10 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- Нейросети/обучение/нормализация
-- Нейросети/обучение/нормализация
-- Нейросети/обучение/производительность
-- Нейросети/обучение/стабильность_данных
+- deep-learning/training/data-instability
+- deep-learning/architecture/transformers/normalization
+- deep-learning/training/optimization
+- deep-learning/architecture/transformers/attention-mechanism
 author:
 - Vladimir Ivanov
 ---

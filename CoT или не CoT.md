@@ -4,13 +4,13 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- кейсы/ансамблирование
-- разработка/код/семантическая_разметка
-- промптинг/техники/альтернативные
-- промптинг/классификация_задач
-- llm/архитектура/генерация/авторегрессия
-- llm/концепция/сравнение/автокомплит
-- промптинг/техники/cot/критика
+- software/code-analysis/semantic-markup
+- ai/techniques/ensembling
+- ai/multi-agent-systems/role-distribution
+- ai/multi-agent-systems/collaboration-effectiveness
+- engineering/code-quality/automated-review
+- research/ensembling-methods
+- ai/performance/team-metrics
 author:
 - Vladimir Ivanov
 ---

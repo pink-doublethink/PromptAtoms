@@ -4,12 +4,11 @@ aliases:
 date: 29-Jun-2025
 tags:
 - 2025/May
-- ИИ/Индустрия/Стратегия
-- ИИ/Индустрия/Менеджмент
-- ИИ/Агенты/Тренд
-- ИИ/Индустрия/Anthropic/Проблемы_Claude
-- ИИ/Индустрия/Конкуренция
-- ИИ/Индустрия/Anthropic/Кризис_Claude
+- ai/market-analysis/claude
+- ai/technical-comparison/programming
+- business/history/crises
+- ai/strategy/user-recommendations
+- ai/market-analysis/dynamics
 author:
 - Vladimir Ivanov
 ---

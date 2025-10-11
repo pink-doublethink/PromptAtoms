@@ -4,11 +4,10 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- ИИ/рынок/риски
-- ИИ/стратегия/адаптация
-- ИИ/стратегия/open_source
-- ИИ/стратегия/изолированные_разработки
-- бизнес/рынок/россия
+- business/ai-market/competition
+- strategy/it/russian
+- business/ai-market/model-comparison
+- business/ai-market/market-share
 author:
 - Vladimir Ivanov
 ---

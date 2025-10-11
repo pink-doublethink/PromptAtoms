@@ -4,12 +4,12 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- оценка/ограничения
-- промптинг/зависимости/качество
-- промптинг/роль_пользователя
-- ИИ/возможности/превосходство_над_человеком
-- ИИ/Индустрия/конкуренция/вендоры
-- разработка/код/генерация
+- ai/application/code-generation
+- ai/application/capabilities
+- ai/prompt-engineering/user-skill
+- prompt_engineering/quality
+- ai/workflow/environment
+- ai/prompt-engineering/quality
 author:
 - Vladimir Ivanov
 ---

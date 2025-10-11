@@ -4,12 +4,11 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- ИИ/Влияние/Коммуникация
-- Разработка/Планирование/Психология
-- Разработка/Планирование/Мифы
-- Разработка/Эффективность
-- Разработка/Калибровка_моделей
-- Разработка/Автоматизация
+- management/automation/ai
+- it/project-management/planning-and-estimation
+- it/human-factors/cognitive-biases
+- management/human-factors/stakeholder-management
+- it/project-management/methodologies
 author:
 - Vladimir Ivanov
 ---

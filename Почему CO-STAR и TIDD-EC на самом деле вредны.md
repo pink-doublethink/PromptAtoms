@@ -4,10 +4,11 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- Промптинг/Профессиональный_подход
-- Семантика/Интерференция
-- Промптинг/Критика/Сложные_промпты
-- Промптинг/Критика
+- ai/prompt-engineering/criticism/co-star
+- prompt_engineering/pitfalls/semantic_interference
+- ai/prompt-engineering/pitfalls/instruction_conflict
+- prompt_engineering/best_practices/rule_application
+- concepts/optimization
 author:
 - Vladimir Ivanov
 ---

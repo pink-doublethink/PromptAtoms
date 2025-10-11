@@ -4,10 +4,11 @@ aliases:
 date: 29-Jun-2025
 tags:
 - 2025/May
-- Разработка/Кодинг_с_ИИ/Процессы
-- Разработка/Кодинг_с_ИИ/Проблемы/Синтаксис
-- Разработка/Кодинг_с_ИИ/Проблемы/Маркеры_завершения
-- Разработка/Кодинг_с_ИИ/Проблемы
+- ai/code-generation/challenges
+- ai/code-generation/limitations/block-completion
+- ai/code-generation/challenges/syntax-influence
+- ai/code-generation/analysis/language-syntax-comparison
+- ai/prompt_engineering
 author:
 - Vladimir Ivanov
 ---

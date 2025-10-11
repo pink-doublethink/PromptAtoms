@@ -4,11 +4,11 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- Исследования/критика/проверка_фактов
-- Исследования/критика/академическая_среда
-- Исследования/критика/оценка
-- Исследования/критика/методология
-- Исследования/критика/доверие
+- research/critique
+- research/methodology/llm_bias
+- research/academia/systemic_issues
+- research/methodology/data_verification
+- research/ethics/researcher_responsibility
 author:
 - Vladimir Ivanov
 ---

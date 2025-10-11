@@ -4,11 +4,12 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/May
-- Мета/план_публикаций
-- ИИ/технологии/GPT/KV_Cache
-- ИИ/технологии/трансформеры/позиционные_кодировки/эмерджентность
-- ИИ/технологии/трансформеры/позиционные_кодировки/роль
-- ИИ/технологии/трансформеры/позиционные_кодировки/критика
+- ai/transformers/positional-encoding
+- ai/transformers/attention-mechanism
+- ai/transformers/theory
+- ai/transformers/optimization
+- ai/interpretability/transformers
+
 author:
 - Vladimir Ivanov
 ---

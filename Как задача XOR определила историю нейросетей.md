@@ -4,11 +4,12 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/May
-- ИИ/будущее/развитие_и_сложность
-- ИИ/история/прорыв_нейросетей
-- ИИ/история/кризис_нейросетей/тупик
-- ИИ/история/кризис_нейросетей/XOR-тест
-- ИИ/история/кризис_нейросетей
+- philosophy/criticism
+- technology/philosophy-of-technology/barriers
+- science/philosophy-of-science/breakthroughs
+- ai/history
+- science/methodology/theory-and-practice
+
 author:
 - Vladimir Ivanov
 ---

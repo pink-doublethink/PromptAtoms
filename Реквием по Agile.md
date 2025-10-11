@@ -4,9 +4,12 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- Разработка/Методология/Waterfall
-- Разработка/Методология/Смена_парадигмы
-- Разработка/Методология/Agile/Критика
+- concepts/paradigm-shift
+- philosophy/critique/agile
+- ai/impact
+- philosophy/methodologies/transition
+- concepts/synthesis/waterfall-ai 
+- it/critique/it-dogmatism
 author:
 - Vladimir Ivanov
 ---

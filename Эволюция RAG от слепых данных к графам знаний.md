@@ -4,12 +4,13 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/May
-- оценка/ux_и_эффективность
-- прогноз/технологии/rag_и_графы
-- данные/граф_знаний/кейсы
-- данные/граф_знаний/преимущества
-- llm/применение/rag/проблема_чанков
-- llm/применение/rag/граф_знаний
+- ai/rag-kg/concepts/advantages-and-role
+- ai/rag-kg/concepts/problem-of-chunks
+- concepts/problem-of-chunks
+- ai/rag-kg/benefits/holistic-navigation
+- ai/rag-kg/future/specialized-graphs
+- ai/rag-kg/implementation/cursor-integration
+- ai/rag-kg/evaluation/ux-and-efficiency
 author:
 - Vladimir Ivanov
 ---

@@ -4,16 +4,12 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- разработка/инструменты/IDE
-- ИИ/разработка/человеческий_фактор
-- карьера/будущее/навыки
-- карьера/разработка/будущее
-- ИИ/взаимодействие/семантика
-- ИИ-в-разработке/IDE/Семантическая-насыщенность
-- ИИ-в-разработке/IDE/Автоматизация-изменений
-- ИИ-в-разработке/IDE/Семантический-граф
-- ИИ-в-разработке/IDE/IDE-2_0
-- ИИ-в-разработке/IDE/Критика
+- future_of_work/tools/ide_evolution
+- future_of_work/tools/ai_integrated_ide
+- future_of_work/paradigms/semantic_graph
+- it/roles/developer_evolution
+- future_of_work/methodology/technical_specification
+- future_of_work/tools/hybrid_interface
 author:
 - Vladimir Ivanov
 ---

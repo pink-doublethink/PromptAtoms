@@ -4,11 +4,11 @@ aliases:
 date: 29-Jun-2025
 tags:
 - 2025/May
-- llm/концепция/смысл_vs_синтаксис
-- промптинг/сравнение/специализированные_языки
-- llm/возможности/сложные_структуры
-- llm/архитектура/генерация/авторекуррентная
-- llm/архитектура/attention/динамика
+- ai/llm/attention-mechanism
+- ai/interaction/prompt-engineering
+- ai/nlp/semantics-vs-syntax
+- concepts/meaning/semantics-over-syntax
+- concepts/process/sequential-creation
 author:
 - Vladimir Ivanov
 ---

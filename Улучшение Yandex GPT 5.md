@@ -4,11 +4,13 @@ aliases:
 date: 27-Jun-2025
 tags:
 - 2025/Apr
-- llm/модели/yandex_gpt/валидация_метода
-- llm/оценка/сравнение_моделей
-- llm/модели/yandex_gpt/применимость
-- llm/модели/yandex_gpt/метод_улучшения
-- llm/модели/yandex_gpt/развитие
+- ai/language_models/development
+- ai/engineering/problem_solving
+- ai/interaction/prompt_engineering
+- research/comparative_analysis
+- ai/applications/business
+- intelligence/comparative_spectrum
+- concepts/creation/digital_mind 
 author:
 - Vladimir Ivanov
 ---

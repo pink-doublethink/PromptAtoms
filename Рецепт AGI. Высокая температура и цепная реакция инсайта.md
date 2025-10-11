@@ -4,9 +4,12 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- ИИ/Развитие/Прорыв
-- ИИ/Технология/Эксперименты
-- ИИ/Сравнение_с_человеком/Функциональная_аналогия
+- ai/agi
+- concepts/agi
+- ai/comparative/neuro-ai-analogy
+- intelligence/cognition/insight-generation
+- intelligence/comparative/data-to-meaning
+- philosophy/artificial/creativity-and-intuition
 author:
 - Vladimir Ivanov
 ---

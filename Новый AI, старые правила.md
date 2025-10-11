@@ -4,12 +4,11 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- ИИ/взаимодействие/эффективность
-- разработка/инструменты/критика
-- семантика/представление_знаний
-- методология/критика
-- разработка/инструменты/критика
-- разработка/инструменты/критика/Tempo
+- software/tooling/critique
+- ai/methodology/architecture-mismatch
+- ai/methodology/legacy-approaches
+- software/tooling/effectiveness-comparison
+- ait/interaction/natural-language
 author:
 - Vladimir Ivanov
 ---

@@ -4,10 +4,10 @@ aliases:
 date: 27-Jun-2025
 tags:
 - 2025/Apr
-- llm/оценка/рекомендации
-- llm/оценка/понимание_концепций
-- кейсы/llama/maverick/применение_наука
-- llm/модели/llama/maverick
+- ai/analysis/capability-comparison
+- ai/communication/scientific-debate
+- ai/applications/communication/refutation
+- ai/methodology/model-testing
 author:
 - Vladimir Ivanov
 ---

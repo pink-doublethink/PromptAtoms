@@ -4,11 +4,11 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- ИИ/архитектура/attention/матрицы_qk_цель
-- llm/архитектура/attention/матрицы_qk_сходств
-- Семантика/attention/матрицы_qk
-- llm/архитектура/мифы/упрощения
-- ИИ/архитектура/attention/миф_q_k
+- ai/llm/gpt-critique
+- ai/transformer-architecture/attention-mechanism
+- ai/transformer-architecture/attention-query-key
+- ai/transformer-architecture/attention-mechanism
+- ai/llm/training-process
 author:
 - Vladimir Ivanov
 ---

@@ -4,11 +4,11 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- ИИ/модели/yandex_gpt/разработка
-- ИИ/Индустрия/компании/яндекс/критика_стратегии
-- разработка/экономия_ресурсов
-- бизнес/россия/зависимость
-- ИИ/Индустрия/рынок/россия/история
+- ai/russian/case-study/yandex-qwen
+- ai/russian/critique/national-identity
+- economics/resource-efficiency
+- ai/russian/context/historical-lag
+- geopolitics/russian/foreign-dependency
 author:
 - Vladimir Ivanov
 ---

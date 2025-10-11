@@ -4,11 +4,11 @@ aliases:
 date: 27-Jun-2025
 tags:
 - 2025/Apr
-- ИИ/поведение/агентность
-- llm/доступ/экспериментальные_модели
-- llm/оценка/понимание_концепций
-- ИИ/Индустрия/развитие/скачок_качества
-- оценка/производительность
+- ai/llm/evaluatio
+- ai/development/trends
+- ai/impact/perception
+- ai/llm/testin
+- ai/human-computer-interaction/collaboration
 author:
 - Vladimir Ivanov
 ---

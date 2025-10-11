@@ -4,10 +4,11 @@ aliases:
 date: 29-Jun-2025
 tags:
 - 2025/May
-- Семантика/Разметка/Последствия
-- Семантика/Разметка/Ответственность
-- Технологии/RAG/Проблемы
-- Технологии/RAG/Ограничения
+- engineering/ai-tools/rag-systems
+- software/philosophy/skill-vs-tool
+- engineering/code-quality/semantic-saturation
+- software/code-analysis/semantic-vs-structural
+- engineering/code-quality/developer-responsibility
 author:
 - Vladimir Ivanov
 ---

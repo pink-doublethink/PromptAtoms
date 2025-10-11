@@ -4,11 +4,10 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- LLM/Математика
-- LLM/Внутренняя-работа/Характеристики-токенов
-- LLM/Внутренняя-работа/Обработка-контекста
-- LLM/Архитектура/Позиционные-кодировки
-- LLM/Аналогии/Дальномер
+- ai/concepts/analogy
+- ai/architecture/positional-encoding
+- ai/concepts/semantic-analysis
+- ai/concepts/tokenization
 author:
 - Vladimir Ivanov
 ---

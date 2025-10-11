@@ -4,11 +4,11 @@ aliases:
 date: 29-Jun-2025
 tags:
 - 2025/May
-- ИИ/оценка/человеческая_оценка
-- ИИ/оценка/бенчмарки/критика
-- ИИ/модели/OpenAI/критика
-- ИИ/модели/Gemini
-- ИИ/оценка/производительность
+- research/performance/benchmarking
+- ai/llm/evaluation/critique
+- finance/llm_research/market_analysis
+- research/evaluation/methodology
+- research/evaluation/manipulation
 author:
 - Vladimir Ivanov
 ---

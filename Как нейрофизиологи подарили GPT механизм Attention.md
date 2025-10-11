@@ -4,11 +4,12 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/May
-- LLM/Архитектура/Attention
-- NLP/Био-вдохновение/Периферийное-зрение
-- NLP/Био-вдохновение/Пример
-- NLP/Эволюция-моделей
-- LLM/Био-вдохновение
+- ai/neuroscience
+- ai/neuroscience/brain-computer-analogy
+- ai/neural-networks/architectures
+- ai/nlp/attention
+- nlp/attention
+- ai/history
 author:
 - Vladimir Ivanov
 ---

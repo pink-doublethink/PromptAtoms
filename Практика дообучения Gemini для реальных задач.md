@@ -4,14 +4,12 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- Разработка/Внедрение
-- Разработка/Процессы
-- Разработка/Методы/Few-shot_vs_Fine-tuning
-- Разработка/Архитектура
-- Разработка/Оптимизация
-- Разработка/Надежность
-- Разработка/Fine-tuning/Данные
-- Разработка/Fine-tuning/Gemini
+- ai/model-development/fine-tuning
+- ai/data-preparation/dataset-creation
+- ai/mlops/production-reliability
+- ai/project-management/resource-optimization
+- ai/model-development/technique-comparison
+- software/case-studies/google-workflow
 author:
 - Vladimir Ivanov
 ---

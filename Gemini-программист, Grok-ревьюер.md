@@ -4,10 +4,11 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/May
-- разработка/код/ревью_с_ии/свойство_болтливость
-- разработка/код/ревью_с_ии
-- кейсы/ансамблирование
-- разработка/код/семантическая_разметка
+- ai/model/technical_capabilities
+- ai/model/background_and_risks
+- business/model/competitive_analysis
+- business/use_cases
+- product/ai_model/future_outlook
 author:
 - Vladimir Ivanov
 ---

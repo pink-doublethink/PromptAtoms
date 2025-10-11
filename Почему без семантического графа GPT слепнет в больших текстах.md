@@ -4,13 +4,12 @@ aliases:
 date: 29-Jun-2025
 tags:
 - 2025/May
-- семантический_граф/построение/проактивный_подход
-- продукт/пользовательский_опыт
-- семантический_граф/риски
-- семантический_граф/качество
-- семантический_граф/роль
-- ИИ/обработка_данных/длинный_контекст
-- ИИ/архитектура/внимание/ограничения
+- ai/attention-limits
+- data/methods/sliding-windows
+- nlp/semantic-graph
+- linguistics/evaluation/graph-quality-impact
+- linguistics/evaluation/navigation-failure-modes
+- linguistics/comparative-analysis
 author:
 - Vladimir Ivanov
 ---

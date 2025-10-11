@@ -4,10 +4,10 @@ aliases:
 date: 27-Jun-2025
 tags:
 - 2025/Apr
-- оценка/продукт
-- ИИ/оценка/сравнение_моделей
-- llm/модели/llama/maverick/особенность_полемика
-- кейсы/борьба_с_дезинформацией
+- ai/analysis/capabilities
+- ai/communication/strategy
+- ai/discourse/misinformation
+- ai/discourse/polemics
 author:
 - Vladimir Ivanov
 ---

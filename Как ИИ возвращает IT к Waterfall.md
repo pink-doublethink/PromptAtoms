@@ -4,13 +4,12 @@ aliases:
 date: 30-Jun-2025
 tags:
 - 2025/Jun
-- ИИ/влияние/индустрии/разработка_ПО/методологии/новая
-- ИИ/влияние/индустрии/разработка_ПО/рабочий_процесс
-- ИИ/применение/программирование/требования_к_коду
-- ИИ/влияние/индустрии/разработка_ПО/методологии/waterfall
-- ИИ/влияние/индустрии/разработка_ПО/процессы
-- ИИ/влияние/индустрии/разработка_ПО/методологии/agile_scrum
-- ИИ/влияние/индустрии/разработка_ПО/методологии
+- it/project-management
+- management/methodologies/agile-decline
+- ai/ai-impact/workflows
+- it-paradigm-shift/development-practices/documentation-architecture
+- it-paradigm-shift/development-practices/semantic-code
+- it-paradigm-shift/methodologies/iterative-development
 author:
 - Vladimir Ivanov
 ---

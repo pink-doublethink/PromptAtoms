@@ -4,12 +4,11 @@ aliases:
 date: 28-Jun-2025
 tags:
 - 2025/Apr
-- ИИ/взаимодействие/методология/практика
-- ИИ/взаимодействие/промптинг/разметка_и_форматы
-- ИИ/технологии/LLM/токенизация/ограничения
-- ИИ/технологии/трансформеры/адаптеры_и_гейты/совместная_работа
-- ИИ/взаимодействие/промптинг/влияние_архитектуры
-- ИИ/технологии/трансформеры/адаптеры_и_гейты
+- ai/llm/architecture/attention-mechanisms
+- ai/prompt-engineering/architectural-influence
+- ai/prompt-engineering/syntax-and-markup
+- ai/data-interaction/data-formats
+- management/documentation/guide-creation
 author:
 - Vladimir Ivanov
 ---

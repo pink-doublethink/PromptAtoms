@@ -4,11 +4,11 @@ aliases:
 date: 27-Jun-2025
 tags:
 - 2025/Apr
-- ИИ/ограничения/объяснимость
-- Наука/методология/исследование_ИИ
-- ИИ/технологии/трансформеры/архитектура
-- ИИ/технологии/LLM/репрезентация_знаний
-- ИИ/технологии/принципы_работы
+- ai/interpretability/llms
+- ai/model_analysis
+- ai/interpretability/layer_functionality
+- ai/interpretability/internal_representations
+
 author:
 - Vladimir Ivanov
 ---
