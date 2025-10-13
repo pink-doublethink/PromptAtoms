@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Как Адаптеры и Гейты GPT фильтруют информацию и влияют на ваши промпты 
-date: 28-Jun-2025
 tags:
 - 2025/Apr
 - ai/llm/architecture/attention-mechanisms

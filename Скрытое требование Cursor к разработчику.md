@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Скрытое требование Cursor к разработчику 
-date: 29-Jun-2025
 tags:
 - 2025/May
 - engineering/ai-tools/rag-systems

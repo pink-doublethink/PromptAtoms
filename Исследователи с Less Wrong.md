@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Исследователи с Less Wrong 
-date: 27-Jun-2025
 tags:
 - 2025/Apr
 - ai/interpretability/llms

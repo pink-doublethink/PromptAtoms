@@ -1,7 +1,6 @@
 ---
 aliases: 
-- Управление GPT через смысл, а не синтаксис 
-date: 29-Jun-2025
+- Управление GPT через смысл, а не синтаксис
 tags:
 - 2025/May
 - ai/llm/attention-mechanism

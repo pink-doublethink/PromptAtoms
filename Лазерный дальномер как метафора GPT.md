@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Лазерный дальномер как метафора gpt 
-date: 28-Jun-2025
 tags:
 - 2025/Apr
 - ai/concepts/analogy

@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Почему Claude рискует повторить судьбу павшего гиганта 
-date: 29-Jun-2025
 tags:
 - 2025/May
 - ai/market-analysis/claude

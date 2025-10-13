@@ -1,7 +1,6 @@
 ---
 aliases: 
-- Llama 4 Maverick. Скандал, Учитель и Неожиданные Таланты 
-date: 28-Jun-2025
+- Llama 4 Maverick. Скандал, Учитель и Неожиданные Таланты
 tags:
 - 2025/Apr
 - ai/technical_capabilities

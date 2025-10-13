@@ -1,7 +1,6 @@
 ---
 aliases: 
-- Q — не вопрос, K — не ответ 
-date: 28-Jun-2025
+- Q — не вопрос, K — не ответ
 tags:
 - 2025/Apr
 - ai/llm/gpt-critique

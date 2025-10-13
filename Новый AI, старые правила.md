@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Новый AI, старые правила 
-date: 28-Jun-2025
 tags:
 - 2025/Apr
 - software/tooling/critique

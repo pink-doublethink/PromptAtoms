@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Как JSON Активирует Встроенный Парсер Для Работы с Большим Контекстом 
-date: 27-Jun-2025
 tags:
 - 2025/Apr
 - research/capabilities/data-and-code

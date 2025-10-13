@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Метод XML-оберток для стабильности, отладки и безопасности 
-date: 28-Jun-2025
 tags:
 - 2025/Apr
 - software/code-generation/challenges

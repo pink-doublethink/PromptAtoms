@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Мыслить как GPT. Семантический граф как основа разработки будущего 
-date: 28-Jun-2025
 tags:
 - 2025/Apr
 - future_of_work/tools/ide_evolution

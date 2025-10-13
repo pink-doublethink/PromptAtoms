@@ -1,7 +1,6 @@
 ---
 aliases: 
-- LLama 4. От Скепсиса до Соавторства 
-date: 27-Jun-2025
+- LLama 4. От Скепсиса до Соавторства
 tags:
 - 2025/Apr
 - ai/llm/evaluatio

@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Ссылочная природа векторов GPT 
-date: 30-Jun-2025
 tags:
 - 2025/Jun
 - ai/vector-embeddings/principles

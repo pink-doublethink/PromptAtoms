@@ -1,7 +1,6 @@
 ---
 aliases: 
-- Управляй AI агентами или уходи с рынка 
-date: 29-Jun-2025
+- Управляй AI агентами или уходи с рынка
 tags:
 - 2025/May
 - it/management/ai-impact

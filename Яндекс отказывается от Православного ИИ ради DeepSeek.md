@@ -1,7 +1,6 @@
 ---
 aliases: 
-- Яндекс отказывается от Православного ИИ ради DeepSeek 
-date: 28-Jun-2025
+- Яндекс отказывается от Православного ИИ ради DeepSeek
 tags:
 - 2025/Apr
 - business/ai-market/competition

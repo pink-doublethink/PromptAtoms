@@ -1,7 +1,6 @@
 ---
 aliases: 
-- Эволюция RAG от «слепых» данных к графам знаний 
-date: 30-Jun-2025
+- Эволюция RAG от «слепых» данных к графам знаний
 tags:
 - 2025/May
 - ai/rag-kg/concepts/advantages-and-role

@@ -1,7 +1,6 @@
 ---
 aliases: 
-- улучшение Yandex GPT 5 
-date: 27-Jun-2025
+- улучшение Yandex GPT 5
 tags:
 - 2025/Apr
 - ai/language_models/development

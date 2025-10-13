@@ -1,7 +1,6 @@
 ---
 aliases: 
-- Llama-4-Maverick. Новая Сила в Технических Спорах 
-date: 27-Jun-2025
+- Llama-4-Maverick. Новая Сила в Технических Спорах
 tags:
 - 2025/Apr
 - ai/analysis/capabilities

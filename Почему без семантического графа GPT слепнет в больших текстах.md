@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Почему без семантического графа GPT «слепнет» в больших текстах 
-date: 29-Jun-2025
 tags:
 - 2025/May
 - ai/attention-limits

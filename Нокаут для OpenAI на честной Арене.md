@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Нокаут для OpenAI на «честной» Арене 
-date: 29-Jun-2025
 tags:
 - 2025/May
 - research/performance/benchmarking

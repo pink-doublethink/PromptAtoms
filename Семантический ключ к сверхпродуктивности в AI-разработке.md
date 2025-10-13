@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Семантический ключ к сверхпродуктивности в AI-разработке 
-date: 28-Jun-2025
 tags:
 - 2025/Apr
 - software/methodology

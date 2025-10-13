@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Истинная роль позиционных кодировок в шаблонах GPT 
-date: 30-Jun-2025
 tags:
 - 2025/May
 - ai/transformers/positional-encoding

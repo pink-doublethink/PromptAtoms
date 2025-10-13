@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Российского ИИ от проблем с генерацией кода до санкций и китайских моделей 
-date: 29-Jun-2025
 tags:
 - 2025/May
 - ai/code-generation/challenges

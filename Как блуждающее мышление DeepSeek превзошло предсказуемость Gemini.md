@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Как «блуждающее» мышление DeepSeek превзошло предсказуемость Gemini 
-date: 29-Jun-2025
 tags:
 - 2025/May
 - ai/llm/cot_methods

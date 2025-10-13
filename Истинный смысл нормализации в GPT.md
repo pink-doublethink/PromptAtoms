@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Истинный смысл нормализации в GPT 
-date: 30-Jun-2025
 tags:
 - 2025/Jun
 - deep-learning/training/data-instability

@@ -1,7 +1,6 @@
 ---
 aliases: 
 - За кулисами Attention 
-date: 30-Jun-2025
 tags:
 - 2025/Jun
 - deep_learning/architecture/attention

@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Как нейрофизиологи подарили GPT механизм Attention 
-date: 30-Jun-2025
 tags:
 - 2025/May
 - ai/neuroscience

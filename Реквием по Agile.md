@@ -1,7 +1,6 @@
 ---
 aliases: 
-- Реквием по Agile 
-date: 28-Jun-2025
+- Реквием по Agile
 tags:
 - 2025/Apr
 - concepts/paradigm-shift

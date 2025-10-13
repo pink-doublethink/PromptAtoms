@@ -1,7 +1,6 @@
 ---
 aliases: 
 - как работает GPT и почему это важно 
-date: 28-Jun-2025
 tags:
 - 2025/Apr
 - ai/llm/architecture

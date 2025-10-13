@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Почему громким исследованиям LLM нельзя верить на слово 
-date: 30-Jun-2025
 tags:
 - 2025/Jun
 - research/critique

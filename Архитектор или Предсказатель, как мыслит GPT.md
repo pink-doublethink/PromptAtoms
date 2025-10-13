@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Архитектор или Предсказатель, как мыслит GPT 
-date: 30-Jun-2025
 tags:
 - 2025/Jun
 - ai/llm/text-generation

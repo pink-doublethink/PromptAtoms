@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Как перестать играть с GPT в рулетку и начать им управлять 
-date: 30-Jun-2025
 tags:
 - 2025/Jun
 - ai/text-generation/model-theory

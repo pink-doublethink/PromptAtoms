@@ -1,7 +1,6 @@
 ---
 aliases: 
-- AI llama-4-maverick 
-date: 27-Jun-2025
+- AI llama-4-maverick
 tags:
 - 2025/Apr
 - ai/analysis/capability-comparison

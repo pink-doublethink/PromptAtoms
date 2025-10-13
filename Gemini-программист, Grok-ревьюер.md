@@ -1,7 +1,6 @@
 ---
 aliases: 
-- Gemini-программист, Grok-ревьюер 
-date: 30-Jun-2025
+- Gemini-программист, Grok-ревьюер
 tags:
 - 2025/May
 - ai/model/technical_capabilities

@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Почему CO-STAR и TIDD-EC на самом деле вредны 
-date: 30-Jun-2025
 tags:
 - 2025/Jun
 - ai/prompt-engineering/criticism/co-star

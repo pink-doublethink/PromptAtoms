@@ -1,7 +1,6 @@
 ---
 aliases: 
-- Claude - провал в бизнесе, триумф во фронтенде 
-date: 30-Jun-2025
+- Claude - провал в бизнесе, триумф во фронтенде
 tags:
 - 2025/Jun
 - ai/business-analysis/claude

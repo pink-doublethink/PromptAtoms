@@ -1,13 +1,12 @@
 ---
 aliases: 
-- {{title}} 
-date: {{date:DD-MMM-YYYY}}
+- {{title}}
 tags:
 - {{date:YYYY}}/{{date:MMM}}
 - 1
 - .
 topics:
-- .
+- ....
 ---
 
 

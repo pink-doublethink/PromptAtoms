@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Нерассказанная история GPT 
-date: 30-Jun-2025
 tags:
 - 2025/May
 - ai/neural-networks/architecture

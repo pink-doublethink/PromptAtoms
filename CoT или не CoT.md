@@ -1,7 +1,6 @@
 ---
 aliases: 
-- CoT или не CoT 
-date: 30-Jun-2025
+- CoT или не CoT
 tags:
 - 2025/Jun
 - software/code-analysis/semantic-markup

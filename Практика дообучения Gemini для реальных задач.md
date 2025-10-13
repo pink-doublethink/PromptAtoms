@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Практика дообучения Gemini для реальных задач 
-date: 28-Jun-2025
 tags:
 - 2025/Apr
 - ai/model-development/fine-tuning

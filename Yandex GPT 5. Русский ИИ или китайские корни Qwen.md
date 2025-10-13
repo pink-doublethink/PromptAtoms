@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Yandex GPT 5. Русский ИИ или китайские корни Qwen 
-date: 28-Jun-2025
 tags:
 - 2025/Apr
 - ai/russian/case-study/yandex-qwen

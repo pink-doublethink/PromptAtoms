@@ -1,7 +1,6 @@
 ---
 aliases: 
 - Почему IT-проекты на самом деле предсказуемы 
-date: 30-Jun-2025
 tags:
 - 2025/Jun
 - management/automation/ai
