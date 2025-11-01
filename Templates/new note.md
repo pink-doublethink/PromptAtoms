@@ -4,9 +4,8 @@ aliases:
 tags:
 - {{date:YYYY}}/{{date:MMM}}
 - 1
-- .
-topics:
-- ....
+author:
+- Vladimir Ivanov
 ---
 
 
