@@ -1,7 +1,6 @@
 ---
 tags:
 - 2025/Dec
-- ВаЖно
 - engineering/methodology/odd-tdd
 - ai/data-analysis/llm-automation
 - data/diagnostics/information-value
